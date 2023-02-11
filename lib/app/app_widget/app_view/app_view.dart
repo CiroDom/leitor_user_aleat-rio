@@ -74,7 +74,7 @@ class _AppViewState extends State<AppView> {
               return ElevatedButton(
                   onPressed: _loadUser,
                   child: const Text('Clique aqui'),
-              )
+              );
             },
         ),
       ),
